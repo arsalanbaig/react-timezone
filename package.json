@@ -2,7 +2,7 @@
   "name": "react-timezone",
   "version": "0.1.0",
   "description": "React timezone picker",
-  "main": "build/react-timezone.min.js",
+  "main": "build/react-timezone.js",
   "scripts": {
     "build": "webpack && webpack -p --minify",
     "lint": "eslint webpack.config.js src",
